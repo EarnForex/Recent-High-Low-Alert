@@ -6,6 +6,6 @@ Recent High/Low Alert can issue popup, email, and notification alerts when the c
 
 ![REI indicator shows some very accurate trend reversal points on this CHF/JPY chart](https://github.com/EarnForex/Recent-High-Low-Alert/blob/main/README_Images/recent-high-low-alert-min-max-levels.png)
 
-More information about this custom MetaTrader indicator is available here: https://www.earnforex.com/metatrader-indicators/Recent-High-Low-Alert/
+More information about this custom MetaTrader indicator is available here: https://www.earnforex.com/indicators/Recent-High-Low-Alert/
 
 Any contributions to the code are welcome!
